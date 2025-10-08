@@ -11,7 +11,7 @@ const ideas = [
       nick: "cool-idea-nick-2",
       name: "Idea 2",
       description:
-        "Lorem 2 ipsum dolor sit amet consectetur adipisicing elit...",
+        "Lorem 2 - новое25-10-08 ipsum dolor sit amet consectetur adipisicing elit...",
     },
     {
       nick: "cool-idea-nick-3",
