@@ -1,2 +1,2 @@
 parserOptions:
-  project: ./tscofig.json
+  project: ./tsconfig.json
